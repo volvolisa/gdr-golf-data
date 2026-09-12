@@ -1,0 +1,7 @@
+gdr.db
+raw/
+report.csv
+*.csv
+.env
+__pycache__/
+*.pyc
